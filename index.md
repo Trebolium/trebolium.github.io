@@ -2,7 +2,7 @@
 layout: default
 ---
 
-CV available [here]()
+CV available [here](https://github.com/Trebolium/trebolium.github.io/blob/master/CV.pdf)
 
 ## PhD Candidate
 
@@ -30,8 +30,6 @@ While working at C4DM, I have had the pleasure of working as a teaching assistan
 - Digital Audio
 - Professional Research Practice
 
-I am interested in all things related to MIR, instrument modelling, audio analysis and synthesis, music classification, disentanglement, and ML.
-
 ## Background
 
 However, my background is immersed in music technology, performance, composition, and teaching.
@@ -41,7 +39,7 @@ See my CV for more information about this.
 
 Wait till I've finished submiting my PhD in a few weeks! I plan to clean this section up. In the mean time, you are welcome to visit the repository on Perceptual Spaces of the Singing Voice [here](https://github.com/Trebolium/VoicePerception).
 
-Repositories that you probably shouldn't yet look at. But here they are for you, at my own peril, along with their relevant publication include:
+Repositories that you probably shouldn't yet look at. But here they are for you, at my own peril, some alongside the relevant publication:
 
 - Title: Singing Technique Classification, [Repo link](https://github.com/Trebolium/VocalTechClass), [Paper Link](https://arxiv.org/abs/2111.08839)
 - Title: Singing Technique Conversion, [Repo link](https://github.com/Trebolium/autoSTC), [Paper Link](https://arxiv.org/abs/2111.08839)
