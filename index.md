@@ -39,14 +39,14 @@ See my CV for more information about this.
 
 Wait till I've finished submiting my PhD in a few weeks! I plan to clean this section up. In the mean time, you are welcome to visit the repository on Perceptual Spaces of the Singing Voice [here](https://github.com/Trebolium/VoicePerception).
 
-Repositories that you probably shouldn't yet look at. But here they are for you, at my own peril, some alongside the relevant publication:
+Repositories that you probably shouldn't yet look at. But here they are for you, at my own peril, alongside the relevant description:
 
 - Title: Singing Technique Classification, [Repo link](https://github.com/Trebolium/VocalTechClass), [Paper Link](https://arxiv.org/abs/2111.08839)
 - Title: Singing Technique Conversion, [Repo link](https://github.com/Trebolium/autoSTC), [Paper Link](https://arxiv.org/abs/2111.08839)
 - Title: Singer Identity Conversion, [Repo link](https://github.com/Trebolium/autoSvc), [Paper Link](https://arxiv.org/abs/2302.13678)
 - Title: Beat Tracker, [Repo Link](https://github.com/Trebolium/beat_tracker), Module on Music Informatics
 - Title: Audio Fingerprinting, [Repo Link](https://github.com/Trebolium/shazam_Imitator), Module on Music Information Retrieval
-
+- Title: Custom MIR Toolkit, [Repo Link](https://github.com/Trebolium/my_utils), 
 <!-- ## Voice Work
 
 Our most recent work focuses on generating a voice timbre encoder designed specifically for the singing voice. [Previous work](https://program.ismir2020.net/poster_1-08.html) exploring voice conversion in the singing domain have used encoder's trained on speech data to achieve the task of singing voice conversion. We have used a similar architecture proposed by [Wan et al. 2018](https://ieeexplore.ieee.org/abstract/document/8462665) and implemented by [CorentinJ](https://github.com/CorentinJ/Real-Time-Voice-Cloning) for this task, and trained it on a number of features and combinations of datasets. The implementation of this network is featured [here](https://github.com/Trebolium/singer_id_encoder).
